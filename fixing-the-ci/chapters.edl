@@ -1,0 +1,6 @@
+# mpv EDL v0
+!no_chapters
+source.mkv,1293.626,21.730
+!new_stream
+!no_chapters
+subtitles.ass,1293.626,21.730
